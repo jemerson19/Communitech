@@ -11,6 +11,7 @@ Site do projeto Communitech
 =======
 >>>>>>> 058d2cbd4dff5394aec5691470838a2d76664dc7
 - Daiane Mascarenhas Lauro da Silva | Professora
-- Rodrigo Santos de Farias / Aluno
 - Jemerson Alec do Santos Lima | Aluno
+- Rodrigo Santos de Farias / Aluno
+
  
