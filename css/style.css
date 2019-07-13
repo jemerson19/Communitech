@@ -3,7 +3,7 @@
       color: rgb(255, 255, 255);
       background-image: url(http://fasam.edu.br/wp-content/uploads/2017/09/marotona-de-programa%C3%A7%C3%A3o-640x380.jpg);
       height: 50px;
-      border: 10px solid saddlebrown;
+      border: 10px solid rgb(20, 139, 218);
       margin: 10px;
       font-family: "Open Sans Condensed", "arial", serif;
   }
@@ -14,8 +14,8 @@
       padding: 10px;
       text-align: center;
       font-family: cursive;
-      background-color: black;
-      border: 10px solid saddlebrown;
+      background-color: rgb(247, 152, 10);
+      border: 10px solid rgb(15, 175, 224);
   }
   
   .nav {
