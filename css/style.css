@@ -1,3 +1,18 @@
-body {
+    body {
     background-color: rgb(175 238 238);
-}
+    .navegador {
+        width: 98, 5%;
+        min-height: 30px;
+        padding: 10px;
+        text-align: center;
+        font-family: cursive;
+        background-color: aliceblue
+    }
+    .nav {
+        display: flex;
+        justify-content: space-around;
+        font-weight: 700;
+        list-style-type: none;
+        margin: 0 auto;
+        padding: 0;
+    }
